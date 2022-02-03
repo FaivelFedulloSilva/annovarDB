@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+/temp
+/tmp
+/input
+/output
+/annovar
+/plink
+/humandb
